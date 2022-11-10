@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Igor J.L Ndiramiye
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently teaching software development in high school
-- 💞️ I’m looking to collaborate on with other developer
-- 📫 How to reach me, nigorjeanluc@gmail.com
+- 👀 I’m interested in Fullstack development & DevOps
+- 🌱 I’m currently teaching software development in high school at CGFK
+- 💞️ I’m looking to collaborate on with other developers
+- 📫 How to reach me? Email me on nigorjeanluc@gmail.com
 
 <!---
 Nigorjeanluc/Nigorjeanluc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
