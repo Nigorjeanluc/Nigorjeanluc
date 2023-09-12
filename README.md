@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack development & DevOps
 - 🌱 I’m currently teaching software development in high school at CGFK
 - 💞️ I’m looking to collaborate with other developers
-- ✨ You can view my portfolio website at https://my-portfolio-2d5f.onrender.com/
+- ✨ You can view my portfolio website at https://ndiramiye.netlify.app/
 - 📫 How to reach me? Email me at nigorjeanluc@gmail.com
 
 <!---
