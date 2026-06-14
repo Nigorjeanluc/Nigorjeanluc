@@ -36,8 +36,9 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React, Vue, Next.js, NestJS, Bootstrap, TailwindCSS, TypeScript, Svelte, Flutter, Vuetify |
-| **Backend** | Laravel, Flask, FastAPI, Node.js, PHP, Python, Go, Kotlin |
+| **Frontend** | React, Vue, Bootstrap, TailwindCSS, TypeScript, Svelte, Flutter, Vuetify |
+| **Backend** | Laravel, Flask, NestJS, FastAPI, Node.js, PHP, Python, Go, Kotlin |
+| **Mobile** | Kotlin Multiplatform Mobile |
 | **Cloud & Infrastructure** | AWS, Docker, Git |
 | **Database** | MongoDB, PostgreSQL, MySQL, Redis |
 | **Embedded Systems** | Arduino, Raspberry Pi, IoT |
