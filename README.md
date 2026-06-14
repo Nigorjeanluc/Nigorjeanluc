@@ -8,7 +8,7 @@
 
 <h3 align="center">Fullstack Developer & DevOps Engineer</h3>
 
-<p align="center">Building scalable web applications and streamlining deployments. Passionate about clean code, cloud architecture, and developer experience.</p>
+<p align="center">I build scalable web applications and streamline DevOps workflows. I'm passionate about clean, maintainable code, cloud-native architecture, and creating exceptional developer experiences.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nigorjeanluc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -41,7 +41,9 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Technologies
+I'm proficient in a wide range of technologies across the full stack. Here's what I work with:
+
+### 💻 Frontend Technologies
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/><sub>React</sub></td>
@@ -59,7 +61,7 @@
   </tr>
 </table>
 
-### Backend Technologies
+### ⚙️ Backend Technologies
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/><br/><sub>Laravel</sub></td>
@@ -77,7 +79,7 @@
   </tr>
 </table>
 
-### Mobile Technologies
+### 📱 Mobile Development
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><br/><sub>Kotlin</sub></td>
@@ -88,7 +90,7 @@
   </tr>
 </table>
 
-### Cloud & DevOps
+### ☁️ Cloud & Infrastructure
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br/><sub>AWS</sub></td>
@@ -99,7 +101,7 @@
   </tr>
 </table>
 
-### Databases
+### 🗄️ Databases
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/><sub>MongoDB</sub></td>
@@ -110,7 +112,7 @@
   </tr>
 </table>
 
-### Embedded Systems
+### 🔌 Embedded Systems
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/><br/><sub>Arduino</sub></td>
@@ -125,7 +127,6 @@
 
 <footer align="center">
   <p><strong>Last updated: June 2026</strong></p>
-  <p>Made with ❤️ using GitHub README technology</p>
 </footer>
 
 <!---
