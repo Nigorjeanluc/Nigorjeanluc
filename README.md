@@ -1,30 +1,51 @@
 <h1 align="center">👋 Hi, I’m Igor J.L Ndiramiye</h1>
-<h3 align="center">A passionate Fullstack developer & DevOps engineer</h3>
-<h4 align="center">✨ You can view my portfolio website at https://ndiramiye.netlify.app/</h4>
-<h4 align="center">📫 How to reach me? Email me at nigorjeanluc@gmail.com</h4>
+
+<p align="center">
+  <a href="https://ndiramiye.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/igor-jean-luc-ndiramiye/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/spartaampho" target="blank"><img src="https://img.shields.io/twitter/follow/Nigorjeanluc?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+</p>
+
+<h3 align="center">Fullstack Developer & DevOps Engineer</h3>
+
+<p align="center">Building scalable web applications and streamlining deployments. Passionate about clean code, cloud architecture, and developer experience.</p>
 
 
-<div align="left" inline>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=Nigorjeanluc&label=Profile%20views&color=0e75b6&style=flat" alt="Nigorjeanluc" /> </span>
-<span align="left"> <a href="https://x.com/spartaampho" target="blank"><img src="https://img.shields.io/twitter/follow/Nigorjeanluc?logo=twitter&style=for-the-badge" alt="Nigorjeanluc" /></a> </span>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nigorjeanluc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-### My GitHub Stats
-<div>
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nigorjeanluc&" alt="Nigorjeanluc" />
-<!-- <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Nigorjeanluc&show_icons=true&locale=en" alt="Nigorjeanluc" /> -->
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Nigorjeanluc&layout=compact&theme=github-dark" alt="GitHub Streak" />
+</p>
 
-<img width="100%" />
-<!-- YT LIST END -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nigorjeanluc&show_icons=true&locale=en&theme=github-dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigorjeanluc&layout=donut&theme=github-dark" alt="Top Languages" />
+</p>
 
+### 🌐 Connect with me:
+<p align="center">
+  <a href="mailto:ndiramiye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/igor-jean-luc-ndiramiye/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Nigorjeanluc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-### Languages and Tools:
-<p align="left"><img src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" alt="laravel" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://kotlinlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/></a></p>
+### 🛠️ Tech Stack
 
-<p align="center"> <strong>Last updated at 17 Jul 2024 14:05 UTC</strong></p>
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React, Vue, Next.js, NestJS, Bootstrap, TailwindCSS, TypeScript, Svelte, Flutter, Vuetify |
+| **Backend** | Laravel, Flask, FastAPI, Node.js, PHP, Python, Go, Kotlin |
+| **Cloud & Infrastructure** | AWS, Docker, Git |
+| **Database** | MongoDB, PostgreSQL, MySQL, Redis |
+| **Embedded Systems** | Arduino, Raspberry Pi, IoT |
+
+<footer align="center">
+  <p><strong>Last updated: June 2026</strong></p>
+  <p>Made with ❤️ using GitHub README technology</p>
+</footer>
 <!---
 Nigorjeanluc/Nigorjeanluc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
