@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nigorjeanluc&show_icons=true&locale=en&theme=github-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigorjeanluc&layout=donut-vertical&theme=github-dark&include_all_commits=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nigorjeanluc&show_icons=true&theme=github-dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigorjeanluc&layout=donut-vertical&theme=github-dark" alt="Top Languages" />
 </p>
 
 ----
